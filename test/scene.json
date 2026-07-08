@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "format": "btob-scene-bundle",
+  "app": "btob-art-viewer",
+  "savedAt": "2026-07-08T06:29:18.538Z",
+  "theme": "light",
+  "projection": "perspective",
+  "viewMode": "3d",
+  "floorMode": "white",
+  "showGrid": false,
+  "light": {
+    "angle": 120,
+    "height": 14,
+    "radius": 11.6,
+    "x": -4.537359328388897,
+    "y": 17.962969148015695,
+    "z": 16.12233595602471,
+    "intensity": 3,
+    "pointLightOn": true,
+    "rimLightOn": true,
+    "pointLightIntensity": 1,
+    "rimLightIntensity": 0.82
+  },
+  "cameraView": {
+    "projection": "perspective",
+    "perspectivePos": {
+      "x": -9.599992370577471,
+      "y": 8.224107108604919,
+      "z": -4.849670008820118
+    },
+    "orthoPos": {
+      "x": 2.6625609418810994,
+      "y": 3.392532303607469,
+      "z": 3.195073130257319
+    },
+    "target": {
+      "x": 4.609329081764037,
+      "y": 2.421488141429681,
+      "z": 9.000800754266344
+    },
+    "ortho": {
+      "left": -7.957283680175246,
+      "right": 7.957283680175246,
+      "top": 5,
+      "bottom": -5
+    },
+    "perspectiveUp": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "orthoUp": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "sceneRollDeg": 0
+  },
+  "models": [
+    {
+      "name": "육면체(라운딩).glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": 0.6566662744636762,
+          "y": 5.3973373146877295,
+          "z": 0.25344145125399287
+        },
+        "rotation": {
+          "x": 0.6,
+          "y": 0,
+          "z": 9.9
+        },
+        "scale": {
+          "x": 1.2469235957018585,
+          "y": 1.2469235957018585,
+          "z": 1.2469235957018585,
+          "uniform": 1.2469235957018585
+        }
+      },
+      "bundlePath": "models/육면체-라운딩-.glb",
+      "fileName": "육면체-라운딩-.glb"
+    },
+    {
+      "name": "육면체(라운딩).glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": 4.25107502615197,
+          "y": 7.019597753578986,
+          "z": 4.621540590037025
+        },
+        "rotation": {
+          "x": 176.60000000000008,
+          "y": 111.40000000000006,
+          "z": -14.399999999999999
+        },
+        "scale": {
+          "x": 2.1538407150891246,
+          "y": 2.1538407150891246,
+          "z": 2.1538407150891246,
+          "uniform": 2.1538407150891246
+        }
+      },
+      "bundlePath": "models/육면체-라운딩-.glb",
+      "fileName": "육면체-라운딩-.glb"
+    },
+    {
+      "name": "주전자.glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": -1.2454116673343432,
+          "y": 3.135832930498118,
+          "z": 7.679054816627712
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2.7690847877327,
+          "y": 2.7690847877327,
+          "z": 2.7690847877327,
+          "uniform": 2.7690847877327
+        }
+      },
+      "bundlePath": "models/주전자.glb",
+      "fileName": "주전자.glb"
+    },
+    {
+      "name": "ma.glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": -0.018879251923267226,
+          "y": -0.2360742256836702,
+          "z": 5.16548661712816
+        },
+        "rotation": {
+          "x": 0,
+          "y": 97.2,
+          "z": -21
+        },
+        "scale": {
+          "x": 2.9815288159860267,
+          "y": 2.9815288159860267,
+          "z": 2.9815288159860267,
+          "uniform": 2.9815288159860267
+        }
+      },
+      "bundlePath": "models/ma.glb",
+      "fileName": "ma.glb"
+    }
+  ]
+}
